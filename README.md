@@ -1,2 +1,15 @@
 # FIDM
-Full Internet Download Manager For Windows &amp; Linux ---> Support Download Youtube Videos &amp; Playlists
+-> Full Internet Download Manager For Windows & Linux
+
+
+
+
+
+# Futures
+
+  -> Program For Windows && Linux
+  
+  -> Support Downloading Videos From Youtube
+  
+  -> Support Downloading Youtube Playlists
+  
