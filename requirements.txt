@@ -1,0 +1,5 @@
+PyQt5
+pafy
+pycurl
+humanize
+
