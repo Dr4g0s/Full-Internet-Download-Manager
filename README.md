@@ -1,5 +1,5 @@
 # FIDM
--> Full Internet Download Manager
+-> Full Internet Download Manager with PyQt , QT4Designer , MultiThread , Pycurl , Pafy 
 
 # Futures
   -> Program For Windows && Linux
